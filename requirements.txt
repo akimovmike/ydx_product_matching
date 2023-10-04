@@ -1,0 +1,10 @@
+faiss-gpu
+numpy
+pandas
+scikit-learn
+requests
+feature-engine
+optuna
+xgboost
+joblib
+tqdm
